@@ -12,7 +12,7 @@ This is my first FastAPI project. The project allows users to create blogs and a
   * `models.py`: 📝 Contains models for User and Blog objects defined using **SQLAlchemy**.
   * `oauth2.py`: 🔑 Contains OAuth2 authentication logic for protecting Blog endpoints using **OAuth2PasswordBearer** for authentication.
   * `schemas.py`: 📝 Contains Pydantic schemas for User and Blog objects.
-  * `token.py`: 🕰️ Contains logic for generating authentication tokens using PyJWT.
+  * `token.py`: 🕰️ Contains logic for generating authentication tokens using *jose*.
 <br />
 
 # 🚀 Getting Started
