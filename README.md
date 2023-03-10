@@ -10,5 +10,5 @@ This is my first FastAPI project. The project allows users to create blogs and a
 4. Install the requirements using `pip install -r requirements.txt`
 5. Run the server using `uvicorn main:app --reload`
 6. Run **http://127.0.0.1:8000/docs** in your browser
-7. Authenticate by clicking the Authenticate button and providing your credentials in the login form **(username: yahea@, password: 12345)**
-8. Once authenticated, you will be able to create and show blogs using the /blogs endpoint
+7. Authenticate by clicking the **Authorize** button and providing your credentials in the login form **(username: string, password: string)**
+8. Once authenticated, you will be able to create and show blogs using the **/blogs** endpoint
