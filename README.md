@@ -28,3 +28,6 @@ This is my first FastAPI project. The project allows users to create blogs and a
 
 # 🤝 Contributions
 Contributions are welcome! If you find any issues or have any suggestions, feel free to create a pull request or submit an issue.
+
+### Reference
+Thanks for [this](https://www.youtube.com/watch?v=7t2alSnE2-I&t=150s) amazing tutorial 😊
